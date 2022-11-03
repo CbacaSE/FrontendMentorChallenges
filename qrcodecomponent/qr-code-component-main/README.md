@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html-and-css-qr-code-component-fOktCMsXoE)
+- Live Site URL: [Add live site URL here](https://636440eaec3a88025877080f--fmcqrcodechallenge.netlify.app/)
 
 ## My process
   I began by setting up visual mock up site with Figma. Once all of the design was duplicated from design preview, I began making Elements that I found fitting for my HTML. After getting my HTML elements in order, I began my CSS with styles that were suggested in the Style-guide. I was able to make this web page responsive with just CSS and HTML elements.
