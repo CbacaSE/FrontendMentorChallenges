@@ -1,0 +1,144 @@
+* {
+    box-sizing:border-box;
+}
+body {
+    background:#1F2632;
+    color:#CEE3E9;
+    font-size:1.75em;
+    width:100%;
+}
+.advice-main {
+    border:1px solid #323A49;
+    background:#323A49;
+    border-radius: 20px;
+    height:450px;
+    text-align: center;
+    letter-spacing: 0.2rem;
+    margin:10% auto 0 auto;
+    position:relative;
+    width:600px;
+}
+#adviceId {
+    color:#52FFA8;
+    font-size: 0.875em;
+    height:50px;
+    margin:10% auto 0 auto;
+    width:200px;
+}
+#adviceText {
+    border:1px solid black;
+    font-family: 'Manrope', sans-serif;
+    font-size:1.05em;
+    height:220px;
+    letter-spacing:0em;
+    margin:2% auto 0 auto;
+    overflow-wrap:break-word;
+    text-align:center;
+    width:430px;
+}
+p {
+    padding:0;
+    margin:0;
+}
+.adv-button {
+    border:1px solid red;
+    display:flex;
+    height:100px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:-2.5%;
+    width:100%;
+}
+.divider {
+    display:block;
+    height:20px;
+    margin-bottom:10px;
+    margin:0 auto;
+    width:95%;
+}
+#submit {
+    position: absolute;
+    background:#52FFA8;
+    bottom:-31px;
+    border-radius:100px;
+    height:70px;
+    left:44%;
+    width:70px;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin:10% auto;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+
+}
+
+@media all and (max-width:960px){
+    .advice-main{
+        height:430px;
+        width:580px;
+    }
+    #submit{
+        margin-top:10%;
+    }
+    .divider{
+        margin-top:2%;
+    }
+  }
+  @media all and (max-width:576px){
+    .advice-main{
+        height:330px;
+        width:480px;
+    }
+    #adviceText {
+        font-size:0.9em;
+        height:150px;
+    }
+    .adv-button {
+        height:80px;
+    }
+    #submit{
+        left:43%;
+        margin-top:10%;
+    }
+    .divider{
+        margin-top:1%;
+    }
+  }
+  @media all and (max-width:445px){
+    .advice-main{
+        height:230px;
+        margin:50% 0;
+        width:380px;
+    }
+    #adviceId {
+        margin:5% auto 0 auto;
+    }
+    #adviceText {
+        font-size:0.6em;
+        height:100px;
+        width:360px;
+    }
+    .adv-button {
+        height:60px;
+        top:78%;
+        margin-left:auto;
+        margin-right:auto;
+        position:absolute;
+    }
+    #submit{
+        height:60px;
+        left:42%;
+        margin-top:15%;
+        width:60px;
+    }
+    .divider{
+        margin:0 auto;
+        width:100%;
+    }
+    .attribution {
+        margin:50% auto;
+    }
+  }
