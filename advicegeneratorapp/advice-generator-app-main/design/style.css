@@ -26,7 +26,6 @@ body {
     width:200px;
 }
 #adviceText {
-    border:1px solid black;
     font-family: 'Manrope', sans-serif;
     font-size:1.05em;
     height:220px;
@@ -41,7 +40,6 @@ p {
     margin:0;
 }
 .adv-button {
-    border:1px solid red;
     display:flex;
     height:100px;
     margin-left:auto;
