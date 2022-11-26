@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](exquisite-babka-cc86be.netlify.app)
+- Live Site URL: [Add live site URL here](https://exquisite-babka-cc86be.netlify.app/)
 
 ## My process
 I began this process like many of my projects with creating a Mockup of what the project should look like using Figma. This is to continue my growth and understanding of Figma. Once the desgin was duplicated, I did my natural course of making HTML Elements fitting for the projects different sections. Then I added my CSS to visually interpert my Figma mockups. Lastly I did add my API using just a little bit of JavaScript. This shows how I can incorporate my knowledge of JavaScrip and the use of API's within my project. All of my site is responsive using Tailwind Media Query recommendations.
